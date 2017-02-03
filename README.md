@@ -5,4 +5,4 @@
 2. [WMPlayer](https://github.com/zhengwenming/WMPlayer) 视屏播放库，可以缩小到右下角
 3. [BarrageRenderer](https://github.com/unash/BarrageRenderer) 弹幕
 4. [ADClusterMapView](https://github.com/applidium/ADClusterMapView) 解决地图局部大头针数量过多问题，相邻的大头针会自动重合
-5. [ActionSheet](git@github.com:yulingtianxia/TBActionSheet.git) 不用解释，能自定义的ActionSheet
+5. [ActionSheet](https://github.com/yulingtianxia/TBActionSheet) 不用解释，能自定义的ActionSheet
