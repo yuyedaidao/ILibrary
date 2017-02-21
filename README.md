@@ -6,3 +6,4 @@
 3. [BarrageRenderer](https://github.com/unash/BarrageRenderer) 弹幕
 4. [ADClusterMapView](https://github.com/applidium/ADClusterMapView) 解决地图局部大头针数量过多问题，相邻的大头针会自动重合
 5. [ActionSheet](https://github.com/yulingtianxia/TBActionSheet) 不用解释，能自定义的ActionSheet
+6. [WCLShineButton](https://github.com/631106979/WCLShineButton) 像Facebook里点赞那样的按钮
